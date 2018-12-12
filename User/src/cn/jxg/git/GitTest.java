@@ -8,4 +8,8 @@ public class GitTest {
 		System.out.println("Hello,git");
 	}
 
+	
+	public void m4() {
+		
+	}
 }
